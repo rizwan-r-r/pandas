@@ -88,3 +88,4 @@ adbc-driver-sqlite>=0.8.0
 dataframe-api-compat>=0.1.7
 typing_extensions; python_version<"3.11"
 tzdata>=2022.7
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
