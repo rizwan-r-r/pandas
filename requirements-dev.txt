@@ -33,7 +33,7 @@ openpyxl>=3.1.0
 odfpy>=1.4.1
 py
 psycopg2-binary>=2.9.6
-pyarrow>=10.0.1
+pyarrow>=14.0.1
 pymysql>=1.0.2
 pyreadstat>=1.2.0
 tables>=3.8.0
