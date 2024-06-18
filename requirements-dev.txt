@@ -88,4 +88,14 @@ adbc-driver-sqlite>=0.8.0
 dataframe-api-compat>=0.1.7
 typing_extensions; python_version<"3.11"
 tzdata>=2022.7
+<<<<<< snyk-fix-ca6eb6ffd373c461df75ae5ba2d2140d
 pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+======
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
+<<<<<< snyk-fix-f76ed824a54ef527558740534931aaff
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
+======
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
+>>>>>> main
+>>>>>> main
